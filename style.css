@@ -1,0 +1,35 @@
+.card-header{
+text-align: center;
+    font-size: 40px;
+    font-family: 'Tangerine', serif;
+  font-size: 48px;
+  text-shadow: 4px 4px 4px rgb(114, 138, 208);
+}
+    
+
+
+.blockquote{
+
+    text-align: center;
+    padding: 20px;
+    color: rgb(19, 109, 109);
+    background-color: rgb(174, 192, 247);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.card-body{
+
+ background-image: url("img.jpg");
+
+}
+.btn1
+{
+    display: block;
+    border-radius: 5px;
+    color:white;
+    background-color: blue;
+    font-size:20px;
+    text-decoration: none;
+    width:fit-content;
+    height:fit-content;
+    padding:5px;
+}
